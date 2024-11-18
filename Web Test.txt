@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empowering SMEs</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background: #4CAF50;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #333;
+        }
+
+        nav a {
+            color: #fff;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 14px;
+        }
+
+        nav a:hover {
+            background: #575757;
+        }
+
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+
+        section h2 {
+            text-align: center;
+            color: #4CAF50;
+            margin-bottom: 10px;
+        }
+
+        .gallery img {
+            width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+
+        .skills ul, .innovations ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .skills ul li, .innovations ul li {
+            background: #e7e7e7;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Empowering SMEs</h1>
+        <p>Helping small businesses grow without relying on traditional markets.</p>
+    </header>
+    <nav>
+        <a href="#about-me">About Me</a>
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills</a>
+        <a href="#innovations">Innovations</a>
+        <a href="#join">Join Us</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about-me">
+        <h2>About Me</h2>
+        <p>I am passionate about creating innovative solutions for SMEs to grow and thrive in today’s competitive market. My focus is on empowering businesses through modern, cost-effective strategies that bypass traditional mini-market chains.</p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>Some of my key initiatives include:</p>
+        <ul>
+            <li>Developing digital platforms to connect SMEs with customers directly.</li>
+            <li>Collaborating with mosques to create local delivery points.</li>
+            <li>Promoting sustainable and eco-friendly products from SMEs.</li>
+        </ul>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Business Strategy Development</li>
+            <li>Digital Marketing</li>
+            <li>Community Engagement</li>
+            <li>Technology Integration</li>
+        </ul>
+    </section>
+    <section id="innovations">
+        <h2>Innovations</h2>
+        <ul>
+            <li>UQWAH Platform: Connecting SMEs with customers via mosques as delivery hubs.</li>
+            <li>IoT Eco-Mosque: Demonstrating the potential of technology to empower communities.</li>
+            <li>Affordable and eco-friendly product packaging solutions for SMEs.</li>
+        </ul>
+    </section>
+    <section id="join">
+        <h2>How to Join as Agents</h2>
+        <p>Interested in becoming part of this movement? Follow these steps:</p>
+        <ol>
+            <li>Contact us through the form below.</li>
+            <li>Attend our introductory training session.</li>
+            <li>Start promoting and selling SME products in your community.</li>
+        </ol>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: example@email.com</p>
+        <p>Phone: +62-123-456-789</p>
+        <p>Social Media: <a href="#">LinkedIn</a> | <a href="#">Instagram</a> | <a href="#">Facebook</a></p>
+    </section>
+    <footer>
+        <p>© 2024 Empowering SMEs. All rights reserved.</p>
+    </footer>
+</body>
+</html>
